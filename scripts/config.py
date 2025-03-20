@@ -1,0 +1,10 @@
+grid_size = 100
+cell_size = 1 / grid_size
+base_cell_weight = 1
+max_cell_weight = 7
+population_size = 100
+generations = 100
+tournament_size = 3
+mutation_probability = 0.5
+optimization_interval = 5
+no_improvement_termination = 12

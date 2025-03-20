@@ -1,0 +1,75 @@
+--------------RUN1--------------
+Execution time: 41.01 seconds
+MST cost: 0.6808
+Result fitness: 0.6281
+Improvement over MST: 8.05%
+Result: [(0.21840005495978293, 0.1907376339792955), (0.20340005495978292, 0.17573763397929548), (0.2952118681654151, 0.2751049450514471), (0.29340005495978294, 0.2807876339792955), (0.21840005495978293, 0.1907376339792955)]%
+
+--------------RUN2--------------
+Execution time: 3.33 seconds
+MST cost: 0.6808
+Result fitness: 0.6290
+Improvement over MST: 7.91%
+Result: [(0.29340005495978294, 0.2807876339792955)]%
+
+--------------RUN3--------------
+Execution time: 3.10 seconds
+MST cost: 0.6808
+Result fitness: 0.6290
+Improvement over MST: 7.91%
+Result: [(0.29340005495978294, 0.2807876339792955)]%
+
+--------------RUN4--------------
+Execution time: 3.36 seconds
+MST cost: 0.6808
+Result fitness: 0.6290
+Improvement over MST: 7.91%
+Result: [(0.29340005495978294, 0.2807876339792955)]%
+
+--------------RUN5--------------
+Execution time: 3.30 seconds
+MST cost: 0.6808
+Result fitness: 0.6290
+Improvement over MST: 7.91%
+Result: [(0.29340005495978294, 0.2807876339792955)]%
+
+--------------RUN6--------------
+Execution time: 3.05 seconds
+MST cost: 0.6808
+Result fitness: 0.6290
+Improvement over MST: 7.91%
+Result: [(0.29340005495978294, 0.2807876339792955)]%
+
+--------------RUN7--------------
+Execution time: 3.23 seconds
+MST cost: 0.6808
+Result fitness: 0.6290
+Improvement over MST: 7.91%
+Result: [(0.29340005495978294, 0.2807876339792955)]%
+
+--------------RUN8--------------
+Execution time: 5.85 seconds
+MST cost: 0.6808
+Result fitness: 0.6287
+Improvement over MST: 7.96%
+Result: [(0.29340005495978294, 0.2757376339792955)]%
+
+--------------RUN9--------------
+Execution time: 3.34 seconds
+MST cost: 0.6808
+Result fitness: 0.6290
+Improvement over MST: 7.91%
+Result: [(0.29340005495978294, 0.2807876339792955)]%
+
+--------------RUN10--------------
+Execution time: 3.23 seconds
+MST cost: 0.6808
+Result fitness: 0.6290
+Improvement over MST: 7.91%
+Result: [(0.29340005495978294, 0.2807876339792955)]%
+
+--------------AVERAGE--------------
+Execution time: 7.28 seconds
+Result cost: 0.6289
+Improvement over MST: 7.93%
+

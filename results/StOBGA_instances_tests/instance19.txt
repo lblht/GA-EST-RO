@@ -1,0 +1,75 @@
+--------------RUN1--------------
+Execution time: 1.49 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN2--------------
+Execution time: 1.51 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN3--------------
+Execution time: 1.46 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN4--------------
+Execution time: 1.47 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN5--------------
+Execution time: 1.49 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN6--------------
+Execution time: 1.50 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN7--------------
+Execution time: 1.47 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN8--------------
+Execution time: 1.48 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN9--------------
+Execution time: 1.46 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------RUN10--------------
+Execution time: 1.49 seconds
+MST cost: 0.7159
+Result fitness: 0.7159
+Improvement over MST: 0.00%
+Result: []%
+
+--------------AVERAGE--------------
+Execution time: 1.48 seconds
+Result cost: 0.7159
+Improvement over MST: 0.00%
+
