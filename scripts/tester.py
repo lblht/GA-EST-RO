@@ -69,9 +69,9 @@ def run_repeatedly(repetitions):
         total_mst_improvement += mst_improvement
 
 path = "StOBGA_problem_instances/SoftObstacles"
-output = "results"
-naming = "instance"
-instances = [1,2,3,4,5]
+output = "results/stobga"
+naming = "stobga_"
+instances = [13, 14, 15, 33, 31, 32]
 runs_per_instance = 10
 
 total_execution_time = 0
@@ -81,9 +81,12 @@ total_mst_improvement = 0
 for i in instances:
     print(f"Starting runs for instance {i}.")
     reset_averages()
+    #obstacles_path = path+".png"
+    #terminals_path = path+".csv"
     obstacles_path = path+"/obstacles"+str(i)+".csv"
     terminals_path = path+"/terminals"+str(i)+".csv"
     config.max_cell_weight = poly_to_raster.find_max_weight_in_file(obstacles_path)
+    #image = Image.open(obstacles_path).convert('L')
     image = poly_to_raster.generate_map_image(obstacles_path, 1000)
     image = image.resize((grid_size, grid_size), Image.NEAREST)
     terminals = utils.read_terminals(terminals_path)

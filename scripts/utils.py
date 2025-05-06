@@ -76,7 +76,7 @@ def get_coordinate_on_line(point1, point2, x=None, y=None):
 def clamp(n, min_value, max_value):
     return max(min_value, min(n, max_value))
 
-def get_cells_on_line(point1, point2): # Implementation of Amanatides and Woo's algorithm
+def get_cells_on_line(point1, point2): # Adjusted implementation of Amanatides and Woo's algorithm
     cells = []
     x1, y1 = position_to_grid(*point1)
     x2, y2 = position_to_grid(*point2)

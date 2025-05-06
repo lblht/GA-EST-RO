@@ -28,14 +28,14 @@ def print_results():
     print(f"Improvement over MST: {mst_improvement:.2f}%")
 
 def plot_stats():
-    visuals.plot_data_statistics(execution_time, fitness_over_time, "Fitness")
+    visuals.plot_data_statistics(fitness_over_time, "Fitness")
 
 
 obstacles_path = "problem_instances/slovakia.png"
 terminals_path = "problem_instances/slovakia.csv"
 
 ext = Path(obstacles_path).suffix.lower()
-if ext == ".csv":
+if ext == ".csv": # for StOBGA instances
     config.max_cell_weight = poly_to_raster.find_max_weight_in_file(obstacles_path)
     image = poly_to_raster.generate_map_image(obstacles_path, 1000)
 elif ext == ".png":

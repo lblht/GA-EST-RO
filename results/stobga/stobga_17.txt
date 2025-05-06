@@ -1,0 +1,75 @@
+--------------RUN1--------------
+Execution time: 8.82 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.48533856641666584, 0.42264657687807394)]%
+
+--------------RUN2--------------
+Execution time: 9.32 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394)]%
+
+--------------RUN3--------------
+Execution time: 9.41 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394), (0.4853385664166659, 0.42264657687807394)]%
+
+--------------RUN4--------------
+Execution time: 9.35 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394)]%
+
+--------------RUN5--------------
+Execution time: 9.96 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394)]%
+
+--------------RUN6--------------
+Execution time: 8.83 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394)]%
+
+--------------RUN7--------------
+Execution time: 9.65 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394)]%
+
+--------------RUN8--------------
+Execution time: 8.85 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394)]%
+
+--------------RUN9--------------
+Execution time: 9.04 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394)]%
+
+--------------RUN10--------------
+Execution time: 8.71 seconds
+MST cost: 1.1207
+Result fitness: 1.0502
+Improvement over MST: 6.49%
+Result: [(0.4853385664166659, 0.42264657687807394)]%
+
+--------------AVERAGE--------------
+Execution time: 9.19 seconds
+Result cost: 1.0502
+Improvement over MST: 6.49%
+

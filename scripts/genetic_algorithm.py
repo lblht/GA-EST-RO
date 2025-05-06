@@ -72,7 +72,6 @@ def uniform_crossover(parent1, parent2):
     
     return child1, child2
 
-
 def mutate_population(population):
     for i in range(len(population)):
         if random.uniform(0, 1) > config.mutation_probability:
@@ -144,7 +143,7 @@ def run_algorithm(terminal_points, image):
         population, fitness_values = sort_population_by_fitness(population)
         fitness_over_time.append(fitness_values[0])
         best_individual = population[0]
-        print(f"Best individual in generation: {fitness_values[0]:.2f}")
+        print(f"Best individual in generation: {fitness_values[0]:.4f}")
         last_best_fitness, no_improvement_counter, terminate = check_improvements(fitness_values, last_best_fitness, no_improvement_counter)
         if terminate: break
         if i > 0: 

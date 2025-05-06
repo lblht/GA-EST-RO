@@ -61,11 +61,12 @@ def display_plot():
     #plt.gca().invert_yaxis()
     plt.show()
 
-def plot_data_statistics(final_time, values, title):
-    time = np.linspace(0, final_time, len(values))
+def plot_data_statistics(values, title):
+    generations = range(1, len(values) + 1)
     plt.figure(figsize=(10, 6))
-    plt.plot(time, values, marker='o', linestyle='-', color='b', label='Values')
-    plt.title(title + " over Time", fontsize=16)
-    plt.xlabel("Time", fontsize=14)
+    plt.plot(generations, values, marker='o', linestyle='-', color='b', label='Values')
+    plt.title(title + " over Generations", fontsize=16)
+    plt.xlabel("Generations", fontsize=14)
     plt.ylabel(title, fontsize=14)
+    plt.xticks(generations)
     plt.show()
